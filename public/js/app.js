@@ -1,4 +1,3 @@
-console.log('client side js file is loaded!')
 alert("enter your location!")
 
 const weatherform = document.querySelector('form')
