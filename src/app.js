@@ -8,7 +8,6 @@ const hbs =require('hbs')
 const app = express()
 const port = process.env.PORT || 3000
 
-
 //define paths for express config.
 const viewspath = path.join(__dirname, '../templates/views')
 const partialspath = path.join(__dirname, '../templates/partials')
